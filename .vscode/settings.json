@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "eslint.enable": true,
+    "eslint.options": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    }
+}
